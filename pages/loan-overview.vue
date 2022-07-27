@@ -51,7 +51,7 @@
             <v-col cols="12">
               <v-file-input
                 chips
-                label="Upload Banner"
+                label="Upload ID"
                 prepend-icon="mdi-camera"
                 accept="image/png, image/jpeg, image/bmp"
                 dense
